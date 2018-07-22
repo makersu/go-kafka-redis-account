@@ -33,6 +33,12 @@ Redis: {Id:58b94498-3f2f-4cb0-9469-9e4ccfc0c83c Name:Mark Su Balance:0}
 
 ## debug redis
 ```
-redis-cli
+> redis-cli
 127.0.0.1:6379> hgetall 58b94498-3f2f-4cb0-9469-9e4ccfc0c83c
+1) "Id"
+2) "58b94498-3f2f-4cb0-9469-9e4ccfc0c83c"
+3) "Name"
+4) "Mark Su"
+5) "Balance"
+6) "0"
 ```
