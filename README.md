@@ -14,7 +14,7 @@ Message is stored in partition 0, offset 0
 
 ## build and run consumer
 ```
-> go build && ./go-kafka-redis-account
+> go build && ./go-kafka-redis-account --act=consumer
 
 Welcome to Account service: consumer
 
