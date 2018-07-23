@@ -42,3 +42,12 @@ Redis: {Id:58b94498-3f2f-4cb0-9469-9e4ccfc0c83c Name:Mark Su Balance:0}
 5) "Balance"
 6) "0"
 ```
+
+## run ginkgo BDD testing framework
+```
+> go get github.com/onsi/ginkgo/ginkgo
+> go get github.com/onsi/gomega
+
+> ginkgo
+```
+

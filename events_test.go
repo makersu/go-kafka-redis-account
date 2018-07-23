@@ -1,7 +1,7 @@
-package main_test
+package main
 
 import (
-	. "github.com/makersu/go-kafka-redis-account"
+//	. "github.com/makersu/go-kafka-redis-account"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
