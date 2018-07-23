@@ -64,3 +64,10 @@ Ginkgo ran 1 suite in 2.26240496s
 Test Suite Passed
 ```
 
+## TODO
+* clustering consumer with sarama cluster library
+* govendor
+
+
+
+
