@@ -1,6 +1,7 @@
 package main_test
 
 import (
+	. "github.com/makersu/go-kafka-redis-account"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

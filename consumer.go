@@ -22,7 +22,7 @@ func mainConsumer(partition int32) {
 
 	go consumeEvents(consumer)
 
-	fmt.Println("Press [enter] to exit consumer\n")
+	fmt.Println("Press [enter] to exit consumer")
 	bufio.NewReader(os.Stdin).ReadString('\n')
 	fmt.Println("Terminating...")
 }
