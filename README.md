@@ -49,5 +49,18 @@ Redis: {Id:58b94498-3f2f-4cb0-9469-9e4ccfc0c83c Name:Mark Su Balance:0}
 > go get github.com/onsi/gomega
 
 > ginkgo
+
+Running Suite: GoKafkaRedisAccount Suite
+========================================
+Random Seed: 1532307780
+Will run 1 of 1 specs
+
+•
+Ran 1 of 1 Specs in 0.000 seconds
+SUCCESS! -- 1 Passed | 0 Failed | 0 Pending | 0 Skipped
+PASS
+
+Ginkgo ran 1 suite in 2.26240496s
+Test Suite Passed
 ```
 
